@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fwzc.rbcollect.core.mapper.UserInfoMapper">
+
+    <select id="getUserForCharts" resultType="com.fwzc.rbcollect.core.pojo.entity.dto.UserInfoChartsDTO">
+            SELECT COUNT(*) as count ,DATE_FORMAT(create_time,'%y-%m-%d') as createTime FROM `user_info` GROUP BY DATE(create_time) limit 20;
+    </select>
+
+</mapper>

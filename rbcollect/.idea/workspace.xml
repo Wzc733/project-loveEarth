@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa777504-155b-40d0-a5f7-dd602a49e0fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rb_collect" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rb_collect" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rb_collect" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="rb_collect: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rb_collect" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="rb_collect: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="goods_deal_item: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\wzc\Maven\Local repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\Public\wzc\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings-副本1.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25zqgSfWKgLpQx2ru4ComVTa4Ih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3375796" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fwzc.rbcollect.core.controller.admin" />
+      <recent name="com.fwzc.rbcollect.core.pojo.entity.dto" />
+      <recent name="com.fwzc.rbcollect.core.service" />
+      <recent name="com.fwzc.rbcollect.core.service.impl" />
+      <recent name="com.fwzc.rbcollect.core.pojo.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\wzc\IdeaProjects\rbcollect\service-core\src\main\java\com\fwzc\rbcollect\core\mapper\xml" />
+      <recent name="C:\Users\Public\wzc\IdeaProjects\rbcollect\service-core\src\main\java\com\fwzc\rbcollect\core\pojo\entity\dto" />
+      <recent name="C:\Users\Public\wzc\IdeaProjects\rbcollect\service-oos\src\main\java\com\fwzc\rbcollect\oos\entity\dto" />
+      <recent name="C:\Users\Public\wzc\IdeaProjects\rbcollect\service-core\src\main\java\com\fwzc\rbcollect\core\controller" />
+      <recent name="C:\Users\Public\wzc\IdeaProjects\rbcollect\service-core\src\main\java\com\fwzc\rbcollect\core\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceCoreApplication">
+    <configuration name="test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzc.rbcollect.oos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fwzc.rbcollect.oos" />
+      <option name="MAIN_CLASS_NAME" value="com.fwzc.rbcollect.oos.test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzc.rbcollect.oos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fwzc.rbcollect.oos" />
+      <option name="MAIN_CLASS_NAME" value="com.fwzc.rbcollect.oos.test" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzc.rbcollect.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fwzc.rbcollect.core.ServiceCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-gataway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzc.rbcollect.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fwzc.rbcollect.gateway.ServiceGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fwzc.rbcollect.oos.ServiceOssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzc.rbcollect.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fwzc.rbcollect.sms.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceSmsApplication" />
+        <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+        <item itemvalue="Spring Boot.ServiceCoreApplication" />
+        <item itemvalue="JUnit.test.test3" />
+        <item itemvalue="JUnit.test.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.32035518" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa777504-155b-40d0-a5f7-dd602a49e0fb" name="Default Changelist" comment="" />
+      <created>1646540373698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646540373698</updated>
+      <workItem from="1646540376266" duration="35873000" />
+      <workItem from="1647330086871" duration="4908000" />
+      <workItem from="1647501378730" duration="20000" />
+      <workItem from="1647505313414" duration="60000" />
+      <workItem from="1647508300819" duration="367000" />
+      <workItem from="1647569408479" duration="4917000" />
+      <workItem from="1647595606593" duration="39000" />
+      <workItem from="1648433527627" duration="99000" />
+      <workItem from="1648607552640" duration="17820000" />
+      <workItem from="1648647216749" duration="3414000" />
+      <workItem from="1648688352600" duration="747000" />
+      <workItem from="1648893725903" duration="9000" />
+      <workItem from="1648901126191" duration="42765000" />
+      <workItem from="1649128532208" duration="11867000" />
+      <workItem from="1649207284671" duration="13000" />
+      <workItem from="1649247578996" duration="3613000" />
+      <workItem from="1649325133866" duration="511000" />
+      <workItem from="1649379822050" duration="46000" />
+      <workItem from="1649421381226" duration="27498000" />
+      <workItem from="1649599345958" duration="5000" />
+      <workItem from="1649639176770" duration="12000" />
+      <workItem from="1649677103151" duration="5081000" />
+      <workItem from="1649688153578" duration="6029000" />
+      <workItem from="1649741802789" duration="11000" />
+      <workItem from="1649764202630" duration="5197000" />
+      <workItem from="1649811303897" duration="25000" />
+      <workItem from="1649849244996" duration="2316000" />
+      <workItem from="1649898038224" duration="39000" />
+      <workItem from="1649910865240" duration="3624000" />
+      <workItem from="1649942033812" duration="6169000" />
+      <workItem from="1649985009511" duration="570000" />
+      <workItem from="1649996144961" duration="3600000" />
+      <workItem from="1650009933123" duration="1320000" />
+      <workItem from="1650011302364" duration="4967000" />
+      <workItem from="1650023869392" duration="3670000" />
+      <workItem from="1650074911779" duration="6245000" />
+      <workItem from="1650168160296" duration="24217000" />
+      <workItem from="1650243590403" duration="815000" />
+      <workItem from="1650244464611" duration="20000" />
+      <workItem from="1650275360776" duration="647000" />
+      <workItem from="1650285782277" duration="11229000" />
+      <workItem from="1650330057446" duration="12000" />
+      <workItem from="1650339189903" duration="6601000" />
+      <workItem from="1650366832562" duration="1674000" />
+      <workItem from="1650416908377" duration="5000" />
+      <workItem from="1650424688605" duration="3145000" />
+      <workItem from="1650458991342" duration="4245000" />
+      <workItem from="1650464424169" duration="3610000" />
+      <workItem from="1650503510315" duration="39000" />
+      <workItem from="1650506330210" duration="9402000" />
+      <workItem from="1650542099658" duration="773000" />
+      <workItem from="1650589968887" duration="55000" />
+      <workItem from="1650606971113" duration="164000" />
+      <workItem from="1650681718161" duration="1349000" />
+      <workItem from="1650762371458" duration="22000" />
+      <workItem from="1651991374712" duration="37980000" />
+      <workItem from="1652165797172" duration="1837000" />
+      <workItem from="1652198232961" duration="21229000" />
+      <workItem from="1652516273578" duration="1713000" />
+      <workItem from="1652586690168" duration="1487000" />
+      <workItem from="1655298886595" duration="145000" />
+      <workItem from="1657610886676" duration="525000" />
+      <workItem from="1660729828107" duration="485000" />
+      <workItem from="1660792270532" duration="1624000" />
+      <workItem from="1660794630655" duration="811000" />
+      <workItem from="1660795509240" duration="1266000" />
+      <workItem from="1660798157227" duration="1950000" />
+      <workItem from="1663899337598" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-core/src/main/java/com/fwzc/rbcollect/core/service/impl/UserInfoServiceImpl.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-core/src/main/java/com/fwzc/rbcollect/core/controller/api/GoodsDealItemController.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
